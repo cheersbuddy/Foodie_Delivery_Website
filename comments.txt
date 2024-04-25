@@ -1,0 +1,20 @@
+use "code.io" for coding  ....
+const - to create constant variable it cant be changes anywhere in program and much have a value we just cant only define it.
+var for only constant variable
+let local fn, var global fn,
+arrow is like a variable and is similar to a function
+filter - filters all the value accor to the condition,
+find idex- to find the index of the given element
+find-to find exact element
+map- it craeate a new arrary with operations performed
+reduce- it rutern  or reduce the given elements into a single value  
+DOC is like a compiler to turn html code in bytes and process it like JVM
+
+meta data-data about data
+.parent node in js to will show the parent and sibling tags
+setInterval-run the fn in interval of 3 sec the will will run in interval of 3 sec everything until the loop is end, like inbuild scrool down in amazon, countdown,etc
+.children nodes are childrens of current tag
+.firstchild first child
+clearInterval- clears the interval 
+setinterval- sets an interval 
+setTimeout- set timeout ed hi,, it prints the hi after 5s and run only once so to clear it we use clearTimeout , if we use clearTimeout before the 5 sec end then it will stop it to print hi
